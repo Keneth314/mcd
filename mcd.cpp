@@ -35,6 +35,7 @@ int long mcd(int long a, int long b){
 		// 12,8  ==> mcd(8,  (12 % 8 ));
 		// 8 ,4  ==> mcd(4,  (8  % 4 ));
 		// 4 ,0  ==> 4	
+		// Recuerda que si a < b en (a % b) el resultado será a  (23/03/2022 - 10:24)
 	}
 	system("pause");
 }
